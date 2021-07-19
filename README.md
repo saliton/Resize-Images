@@ -1,6 +1,6 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Soliton-Analytics-Team/Resize-Images/blob/main/Resize.ipynb)
 
-# 比率や向きに意味がある画像を機械学習用にリサイズする
+# 意外に簡単！画像リサイズの座標変換なんか絶対自分で計算したくない
 
 imgaugやAlbumentationsというモジュールは、機械学習用に入力画像を加工してくれる便利なモジュールです。画像の変形にあわせて、オブジェクトのバインディングボックスやマスク画像も一緒に変形してくれる機能があります。これらはオブジェクトディテクションやセマンティックセグメンテーションを学習させる場合の必須の機能です。大半の変形は直感的にわかりやすいので使用に特に困難はありませんが、ひとつあまり自明でない方法が必要なものがあったので、忘備録として記事にしておきます。ちなみにAlbumentationsはimgaugより処理速度が速いのが売りのようです。
 
