@@ -1,4 +1,4 @@
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Soliton-Analytics-Team/Resize-Images/blob/main/Resize.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/saliton/Resize-Images/blob/main/Resize.ipynb)
 
 # 意外に簡単！画像リサイズの座標変換なんか絶対自分で計算したくない
 
